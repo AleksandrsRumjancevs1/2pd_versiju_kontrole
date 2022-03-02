@@ -1,1 +1,2 @@
 # 2pd_versiju_kontrole
+Aleksandrs Rumjancevs
